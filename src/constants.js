@@ -144,7 +144,7 @@ export const SkillsInfo = [
       image: bookLogo,
       tags: ["React JS", "Node.js", "Express.js", "MongoDB", "REST API", "Tailwind CSS"],
       github: "https://github.com/Jagriti-17/BookStore-MERN-/tree/master",
-      webapp: "https://mybookstore-umber.vercel.app/",
+      webapp: "https://book-store-mern-gray-three.vercel.app/",
     },
     {
       id: 1,
